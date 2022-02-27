@@ -1,0 +1,272 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Os ossis &amp; oris. Or A collection of the most remarkeable passages in a book intituled, Os ossorianum. Or A bone for a bishop to pick, written by a worthy minister of the VVord, John Goodwin, of Coleman street. Viz. 1. The most grave and weighty sentences and proverbs. 2. His most meeke and charitable demeanour. 3. The most home and reverent similitudes. 4. The neatest phrases, and most queint expressions. 5. His excellency in the allegoricall use of the militia. 6. The most concordant, and consonant passages. 7. His most modest, and mannerly behaviour towards his adversary. viz. the Reverend Father in God, Gr. Williams, Lord Bishop of Ossory.</title>
+            <title>Os Ossorianum. Selections</title>
+            <author>Goodwin, John, 1594?-1665.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85405</idno>
+            <idno type="STC">Wing G1184</idno>
+            <idno type="STC">Thomason E96_15</idno>
+            <idno type="STC">ESTC R11747</idno>
+            <idno type="EEBO-CITATION">99859122</idno>
+            <idno type="PROQUEST">99859122</idno>
+            <idno type="VID">155815</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85405)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155815)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 17:E96[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Os ossis &amp; oris. Or A collection of the most remarkeable passages in a book intituled, Os ossorianum. Or A bone for a bishop to pick, written by a worthy minister of the VVord, John Goodwin, of Coleman street. Viz. 1. The most grave and weighty sentences and proverbs. 2. His most meeke and charitable demeanour. 3. The most home and reverent similitudes. 4. The neatest phrases, and most queint expressions. 5. His excellency in the allegoricall use of the militia. 6. The most concordant, and consonant passages. 7. His most modest, and mannerly behaviour towards his adversary. viz. the Reverend Father in God, Gr. Williams, Lord Bishop of Ossory.</title>
+                  <title>Os Ossorianum. Selections</title>
+                  <author>Goodwin, John, 1594?-1665.</author>
+               </titleStmt>
+               <extent>[1], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>Printed in the yeere, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Selections from his defense of his "Anti-cavalierisme", in reply to "Vindiciae regum" by Gryffith Williams.</note>
+                  <note>Place of publication conjectured by Wing.</note>
+                  <note>Annotation on Thomason copy: "Aprill 13.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Williams, Gryffith, 1589?-1672. --  Vindiciae regum --  Controversial literature --  Early works to 1800.</term>
+               <term>Goodwin, John, 1594?-1665. --  Anti-Cavalierisme --  Early works to 1800.</term>
+               <term>Church of England --  Doctrines --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155815:1" rendition="simple:additions"/>
+            <p>
+               <hi>Os Oſsis &amp; Oris.</hi> OR A COLLECTION OF The moſt remarkeable paſſages in a book intituled, <hi>Os Oſſorianum.</hi> OR A bone for a Biſhop to pick,</p>
+            <p>Written By a worthy Miniſter of the VVord, JOHN GOODWIN, of Coleman ſtreet.</p>
+            <p>Viz. 1. <hi>The moſt grave and weighty Sentences and Proverbs.</hi> 2. <hi>His moſt meeke and charitable demeanour.</hi> 3. <hi>The moſt home and reverent ſimilitudes.</hi> 4. <hi>The neateſt phraſes, and moſt queint expreſſions.</hi> 5. <hi>His excellency in the allegoricall uſe of the Militia.</hi> 6. <hi>The moſt concordant, and conſonant paſſages.</hi> 7. <hi>His moſt modeſt, and mannerly behaviour towards his Ad<g ref="char:EOLhyphen"/>verſary.</hi> viz. The Reverend Father in God, <hi>Gr. Williams,</hi> Lord Biſhop of Oſſory.</p>
+            <p>Printed in the yeere. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:155815:2"/>
+            <head>A Collection of the moſt remarkable paſſages in a Book entituled, <hi>Os Oſſorianum.</hi>
+            </head>
+            <p>HAving falne upon this Tract, written by a moſt judici<g ref="char:EOLhyphen"/>ous Divine of this City, by which I ſeriouſly profeſſe my ſelfe to be more improved then by any other of the ſame nature; and conſidering that books of that bulk and value are not ſo generally diſperſed, or ſo throughly read in theſe nimble and diſpatchfull times; I have thought it not unworthy my Chriſtian pains to cull out the moſt uſefull and edifying paſ<g ref="char:EOLhyphen"/>ſages, as well for the eaſe and benefit of this City and King<g ref="char:EOLhyphen"/>dome, as for the more ſpeedy advancement of the Cauſe in hand, and the reputation of the <hi>grave, learned, modeſt, in<g ref="char:EOLhyphen"/>genious, humble,</hi> and <hi>charitable</hi> Author. Which are as fol<g ref="char:EOLhyphen"/>loweth.</p>
+            <div n="1" type="part">
+               <head>
+                  <hi>1.</hi> The moſt grave and weighty Sentences and Proverbs.</head>
+               <list>
+                  <item>1 THe Countrey Proverb is, that <hi>Good Ale never wants a friend on the Bench,</hi> (applyed to the Epi<g ref="char:EOLhyphen"/>ſcopall chaire) <hi>Page</hi> 1</item>
+                  <item>2 <l>Much like a Rat, before he is aware,</l>
+                     <l>He ſqueaks himſelfe into a trapping ſnare.</l> 
+                     <hi>p.</hi> 8</item>
+                  <item>3 You will never thrive by hogs, if you bring them to no fairer market then this. <hi>p.</hi> 13</item>
+                  <item>4 It may be he was afraid of the end of an old Saw.<lb/>
+                     <hi>Pauperis eſt numerare pecus.</hi>
+                     <lb/>
+'Tis poor mans guiſe his cattle ere to number. <hi>p.</hi> 17</item>
+                  <item>5 I ſee it is ill halting before a cripple, however the common ſaying is, Set a thief to take a thief. <hi>p.</hi> 19</item>
+                  <item>6 But in the meane time let the ſaddle be ſet on the
+<pb n="2" facs="tcp:155815:2"/>
+right horſe, and he that cries out againſt the thiefe, be laid hold of for the thiefe himſelfe. <hi>p.</hi> 40</item>
+                  <item>7 They tell you they have a needle of nine-pence in a bottle of hay, diſprove them if you can. <hi>p.</hi> 55</item>
+                  <item>8 Therefore Sir you are faln into the <hi>Premunire</hi> of the old Proverb, <hi>Sutor ultra crepidam,</hi> having playd the Cobler beyond your Laſt. <hi>p.</hi> 61</item>
+                  <item>9 They have laid your wallet upon your owne neck, and have concluded <hi>Stop the thiefe,</hi> to be the thiefe himſelfe. <hi>ibid.</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="2" type="part">
+               <head>
+                  <hi>II.</hi> His moſt meek and charitable demeanour.</head>
+               <list>
+                  <item>1 INtending chiefly to abuſe the conſciences of the weaker, he bluſters, and thunders, and arms him<g ref="char:EOLhyphen"/>ſelfe with <hi>hell-fire. p.</hi> 9</item>
+                  <item>2 Which is an accuſation of that deſperate malice, that the <hi>Accuſer of the Brethren</hi> ſeems to have given him his power &amp; his throne, as being more able to ma<g ref="char:EOLhyphen"/>nage them for his advantage then himſelfe. <hi>p.</hi> 36.</item>
+                  <item>3. Let the Biſhop beare teſtimony againſt me, and up<g ref="char:EOLhyphen"/>on due proofe made <hi>Satiet ſe ſanguine, quem ſemper ſitivit.</hi> let the Anti-cavalier be ſacrificed upon his <hi>Anti-Chriſtian</hi> and <hi>bloudy Spirit. p.</hi> 40.</item>
+                  <item>4. Biſhops ſurely are more afraid of ſcruples, and qualmes of conſcience, then they are of <hi>hell-fire. p.</hi> 50</item>
+                  <item>5. He is inforced to furniſh his pen with the rankeſt ſlanders and lies he could rake off from the <hi>Divels dunghill. p.</hi> 54.</item>
+                  <item>6. Surely he hath good correſpondence with <hi>Pluto;</hi> for we have here ſtampt together, as the principall in<g ref="char:EOLhyphen"/>gredients in the compoſition. <hi>p.</hi> 58.</item>
+                  <item>
+                     <hi>Oris Cerberei ſpumas &amp; virus echidnae.</hi> (i. e.)<lb/>
+                     <l>
+                        <pb n="3" facs="tcp:155815:3"/>The foamy froth of <hi>Cerberus</hi> triple chaps,</l>
+                     <l>Mixt with the poyſon of a female aſpe.</l> Brai<gap reason="illegible: blotted" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> &amp; Stairs.</item>
+               </list>
+            </div>
+            <div n="3" type="part">
+               <head>
+                  <hi>III.</hi> The moſt home and reverent ſimilitudes.</head>
+               <list>
+                  <item>1. AS <hi>Peter</hi> and <hi>John</hi> had neither ſilver nor gold, but gave the poor cripple ſuch as they had; ſo this man hath neither learning nor modeſty, but ſuch as he hath he gives his poore brother, Igno<g ref="char:EOLhyphen"/>rance and Impudence. <hi>p.</hi> 14.</item>
+                  <item>2. To ſay that any Magiſtrate, hath any power at all from God to lay puniſhment unjuſtly upon any man, is as like the ſound of an empty tub as may be. <hi>p.</hi> 15</item>
+                  <item>3 When <hi>Herod</hi> had killed <hi>James,</hi> becauſe he ſaw that it pleaſed the people, he proceeded further to take <hi>Peter</hi> alſo, <hi>Act.</hi> 12. 2, 3. The Biſhop it ſeems hath ei<g ref="char:EOLhyphen"/>ther ſo pleaſed himſelf or his friends, with confu<g ref="char:EOLhyphen"/>ting the Anti-Cavalier (over the ſhoulder) <hi>once,</hi> that he proceeds to the like confutation of him the <hi>ſecond time. p.</hi> 36</item>
+                  <item>4 However the Lamb hath no great cauſe to be ſorry if the Wolfe knew her not; nor hath this <hi>Goodwin</hi> any cauſe to be troubled, that theſe great overſeers over-look him. <hi>p.</hi> 37</item>
+                  <item>5 This is but a ſaying of like notion with this, that all the fiſhes in the ſea that are fowles in the ayre, are able to fly: Or this, all the lambs in the fold, that are Lions in the foreſt, will be able enough to deale with the wolfe. <hi>p.</hi> 44</item>
+                  <item>6 But is he as ſtrong in his evidence as he is in his judg<g ref="char:EOLhyphen"/>ment? Not by as many degrees as the Sun went
+<pb n="4" facs="tcp:155815:3"/>
+back in the diall of <hi>Ahaz</hi> in <hi>Hezekiahs</hi> dayes. <hi>p.</hi> 47 </item>
+                  <item>7 In this Nation your credit is broken in pieces like a Potters veſſel, whereof there remains not ſo much as a ſheard or piece, wherewith to take either a little fire from the harth, or a little water out of the pit. <hi>p.</hi> 56</item>
+                  <item>8 His angry Lordſhip in joyning the Anti-Cavalier with M. <hi>Burroughs,</hi> hath accommodated him with the like honour, wherewith the blind man reſtored to ſight by our Saviour, (<hi>Joh.</hi> 9.) vvas gratified by the Scribes and Phariſees, who excommunicated him, and caſt him out of their ſociety to Chriſt and his Apoſtles. <hi>p.</hi> 57</item>
+                  <item>9 It may be you are beſt in the dark, and the light is to you that which <hi>Job</hi> ſayes it is to theeves, <hi>in the ſha<g ref="char:EOLhyphen"/>dow of death, Job</hi> 24. 17. <hi>p.</hi> 60</item>
+               </list>
+            </div>
+            <div n="4" type="part">
+               <head>
+                  <hi>IV.</hi> The neateſt Phraſes and moſt queint Expreſsions.</head>
+               <list>
+                  <item>1. I Wonder what crotchet hath fallen in conjuncti<g ref="char:EOLhyphen"/>on with the Rotcher. <hi>p.</hi> 21</item>
+                  <item>2. The ruine and deſtruction of the land by thoſe walking ſacks of blood the Cavaliers. <hi>ib.</hi>
+                  </item>
+                  <item>3. Hence it fully appeares how left-handed the Bi<g ref="char:EOLhyphen"/>ſhop is in his underſtanding of Scriptures. <hi>p.</hi> 31</item>
+                  <item>4. The deſign of this confeſſion ſeems to be to indi<g ref="char:EOLhyphen"/>gitate his adverſary, as a <hi>filius terrae,</hi> and himſelfe bro<g ref="char:EOLhyphen"/>ther to the Sunne and Moone. <hi>p.</hi> 37</item>
+                  <item>5. He caſts out his ſacred anchor, betakes himſelf to his bottome anſwer. <hi>p.</hi> 45</item>
+                  <item>6. I profeſſe ingeniouſly I have not ſo bad an opini<g ref="char:EOLhyphen"/>on of the man, as to ſet the foote of my judgement by his in this. <hi>p.</hi> 48</item>
+                  <item>
+                     <pb n="5" facs="tcp:155815:4"/>7. A man would have thought that what the Anti-Cavalier hath written ſhould have beene a bridle in the lips of this mans pen. But <hi>jacta eſt alta,</hi> he hath ad<g ref="char:EOLhyphen"/>ventured upon a Biſhoprick. <hi>p.</hi> 50</item>
+                  <item>8. Sir let me tel you one thing which may be worth many a two that are told you otherwiſe. <hi>p.</hi> 56</item>
+                  <item>9. When this heaven falls he makes no queſtion but he ſhall have larkes enough to feaſt the Biſhop. <hi>p.</hi> 57</item>
+                  <item>10. I wonder a little how the Biſhop came by his ſimples for this receipt. <hi>p.</hi> 58</item>
+               </list>
+            </div>
+            <div n="5" type="part">
+               <head>
+                  <hi>V.</hi> His excellencie in the Allegoricall uſe of the Militia.</head>
+               <list>
+                  <item>1. HE ſhelters himſelf behind Kilkenny as his bul<g ref="char:EOLhyphen"/>warke, and lets fly at the Parliament in Eng<g ref="char:EOLhyphen"/>land. <hi>p.</hi> 8</item>
+                  <item>2. In the contents of the 2. <hi>Chap.</hi> he hath the firſt encounter of the 3. <hi>Chap.</hi> the ſecond encounter of the 4. the 3. aſſault of the 5. <hi>Chap.</hi> the 4. encounter of the Biſhop with the Anti-Cavalier, in which he chargeth him with lies, and of the 6. <hi>Chap.</hi> the laſt encounter wherein he chargeth him with little leſſe. </item>
+                  <item>3. The quarter in this diſcourſe which the Philo-Cavalier fals upon is this. <hi>p.</hi> 36</item>
+                  <item>Againſt this the Bp. advanceth with this anſwer. <hi>p.</hi> 37</item>
+                  <item>The forlorne hope or firſt advance of his anſwer is, &amp;c. <hi>ibid.</hi>
+                  </item>
+                  <item>In the next place comes on the van of his anſwer. <hi>ibid.</hi>
+                  </item>
+                  <item>4. Now to the heate and ſtrength of the battel, his firſt charge is, &amp;c. <hi>p.</hi> 41</item>
+                  <item>5. Thus we ſee the Epiſcopal batteries and aſſaults
+<pb n="6" facs="tcp:155815:4"/>
+are of no value, to pierce or ſhake the fortifications and bulwarks which the Anti-Cavaleir hath raiſed for the defence of the cauſe undertaken by him. <hi>p.</hi> 49</item>
+                  <item>6. But becauſe in this encounter he quits his intelle<g ref="char:EOLhyphen"/>ctuals &amp; falls on with his patheticals, I wil be at no fur<g ref="char:EOLhyphen"/>ther expence of words upon him. <hi>p.</hi> 53</item>
+               </list>
+            </div>
+            <div n="6" type="part">
+               <head>
+                  <hi>VI.</hi> The moſt concordant and conſonant paſſages.</head>
+               <list>
+                  <item>1. THe man is ſo well experienced in the point of impudencie, that he diſcernes it where it is not, yea where there is not the leaſt colour or appearance of it. <hi>p.</hi> 19</item>
+                  <item>2. To make your conſcience leave muttering, you ſeale up your reſolution with another egge of the ſame bird. <hi>p.</hi> 29</item>
+                  <item>3. Nor would any man who hath not his fore-head fenced with iron and braſſe, ever have adventured his reputation in ſuch a rotten bottome. <hi>p.</hi> 21</item>
+                  <item>The like follows. <hi>p.</hi> 51</item>
+                  <item>4. Now I would know of a man that had not made ſhip-wrack of his fore-head, whether, &amp;c. <hi>p.</hi> 51</item>
+               </list>
+            </div>
+            <div n="7" type="part">
+               <head>
+                  <hi>VII.</hi> His moſt moderate and mannerly behaviour to<g ref="char:EOLhyphen"/>wards his Adverſary.</head>
+               <list>
+                  <item>1. HE that affirmeth <hi>Gregory</hi> or <hi>Griffeth Williams</hi> (or whatever the name of the hobgobling Gr. be,) &amp;c. <hi>p.</hi> 23</item>
+                  <item>2. Juglers can hide and finde at pleaſure. This man I beleeue hath learn'd his <hi>Terence. Si ſapis quod ſcis ne<g ref="char:EOLhyphen"/>cis,</hi> and his <hi>Cato</hi> too. <hi>p.</hi> 43</item>
+                  <item>3. Whether God wil aſſiſt any man, much more a
+<pb n="7" facs="tcp:155815:5"/>
+colloguing Bp, &amp;c. <hi>p.</hi> 44</item>
+                  <item>4. I anſwer, If this be his meaning, then have at the butcher with his own hatchet. <hi>p.</hi> 46</item>
+                  <item>5. He that thus turnes him ſelfe every way, and cuts and laſhes him ſelfe like <hi>Baals Prieſts</hi> for an anſwer, it is a plaine ſigne he knowes not which way to turne him. <hi>ibid.</hi>
+                  </item>
+                  <item>6. Therefore the Bp. goes out in a ſnuffe here. <hi>p.</hi> 47</item>
+                  <item>7. May not a man eate Oiſters without diſturbing the Bp. at his roſt beefe? <hi>p.</hi> 48</item>
+                  <item>8. For the maintenance of his cauſe he preſently ea<g ref="char:EOLhyphen"/>ſes his foule ſtomach, by diſgorging this vomit in the Anti-Cavaleirs face. <hi>p.</hi> 49</item>
+                  <item>9. It is a ſlander worthy that order of men from whence it comes, whoſe tongues and pens are no ſlan<g ref="char:EOLunhyphen"/>der. <hi>p.</hi> 5<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </item>
+                  <item>10. I preſume the <hi>Bp</hi> is <hi>neſcient</hi> (not to rub him with the coorſe towel of <hi>Ignorance,</hi> wherewith not withſtand<g ref="char:EOLhyphen"/>ing he beſcrubs the poore Anti-Cavaleir over and o<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> over.) <hi>p.</hi> 53</item>
+                  <item>11. The oyle in his cruce being formerly ſpent, the Bp. here comes to his Vineger bottle, having run him<g ref="char:EOLhyphen"/>ſelfe out of his ſmall ſtock of learning before he was aware, &amp;c. <hi>p.</hi> 54</item>
+                  <item>12. The man by this time hath reaſond him ſelfe quite out of al his learning, reaſon, and patience, into <hi>a moody, cholerick, and bloody paſsion. p.</hi> 58</item>
+                  <item>13. The man is here in his rhetoricals, and we doe him ſome wrong to make him ſpeake Logick, that is reaſon and truth againſt his will. <hi>p.</hi> 59.</item>
+               </list>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
